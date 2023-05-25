@@ -9,10 +9,6 @@ router.get('/', getLivros)
 router.get('/:id', getLivro)
 
 
-router.post('/', postLivro (req,res) => {
-    res.send('Você fez uma requisição do tipo POST')
-})
-
 router.patch('/', (req,res) => {
     res.send('Você fez uma requisição do tipo PATCH')
 })
