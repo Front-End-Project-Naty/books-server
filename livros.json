@@ -1,1 +1,18 @@
-[{"id":"1","nome":"Nice dogs"},{"id":"2","nome":"Cats"},{"id":"3","nome":"Bees"},"4"]
+[
+    {
+        "id": "1",
+        "nome": "Dogs"
+    },
+    {
+        "id": "2",
+        "nome": "Cats"
+    },
+    {
+        "id": "3",
+        "nome": "Bees"
+    },
+    {
+        "id": "4",
+        "nome": "Horses"
+    }
+]

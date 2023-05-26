@@ -1,5 +1,5 @@
 const { Router } = require("express")
-const { getLivros, getLivro, postLivro, patchLivro } = require("../controladores/livro")
+const { getLivros, getLivro, postLivro, patchLivro, deleteLivro } = require("../controladores/livro")
 
 
 const router = Router()
