@@ -1,18 +1,32 @@
 [
     {
         "id": "1",
-        "nome": "Dogs"
+        "nome": "Marley e eu",
+        "image": "https://m.media-amazon.com/images/I/414UIG00aXL._AC_UF1000,1000_QL80_.jpg"
     },
     {
         "id": "2",
-        "nome": "Cats"
+        "nome": "Procurando Gobi",
+        "image": "https://m.media-amazon.com/images/I/81Ck0HWwGDL.jpg"
     },
     {
         "id": "3",
-        "nome": "Bees"
+        "nome": "A biblioteca da meia noite",
+        "image": "https://m.media-amazon.com/images/I/81iqH8dpjuL._AC_UF1000,1000_QL80_.jpg"
     },
     {
         "id": "4",
-        "nome": "Horses"
+        "nome": "O senhor dos aneis",
+        "image": "https://m.media-amazon.com/images/I/514M+qMYWSL.jpg"
+    },
+    {
+        "id": "5",
+        "nome": "Stranger Cats",
+        "image": "https://i1.sndcdn.com/artworks-CxB22RWmaGdhXEyD-WBqnzA-t500x500.jpg"
+    },
+    {
+        "id": "6",
+        "nome": "A vida secreta de Mac",
+        "image": "https://m.media-amazon.com/images/I/81s45xWHbkL._AC_UF1000,1000_QL80_.jpg"
     }
 ]
