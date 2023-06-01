@@ -43,7 +43,6 @@ function postLivro(req, res) {
         res.status(500)
         res.send(error.message)
     }
-
 }
 
 function patchLivro(req,res) {
